@@ -9,7 +9,7 @@
 ## Note
 This app is a combination of open-source codes of a Calculator, GPA calculator, Timer, and other original codes for editing, customizing and linking.
 
-##___________________________________________
+## ___________________________________________
 ## GradeCalc - GPA Calculator
 
 [Download at the App Store](https://apps.apple.com/de/app/gradecalc-gpa-calculator/id1502912052)
